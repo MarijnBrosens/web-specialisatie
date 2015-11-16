@@ -1,0 +1,15 @@
+#New technology : Meteorjs
+###09/10
+Begin meteor
+Installatie
+
+		curl https://install.meteor.com/ | sh
+
+Volledige tutorial -> leveluptuts Meteor For Everyone
+https://www.youtube.com/watch?v=BI8IslJHSag&list=PLLnpHn493BHFYZUSK62aVycgcAouqBt7V
+
+###12/10
+
+Tutorial van Meteor website zelf
+https://www.meteor.com/tutorials/blaze/creating-an-app
+https://scotch.io/tutorials/learn-meteor-js-from-scratch-build-a-polling-app

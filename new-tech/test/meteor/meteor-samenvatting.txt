@@ -1,0 +1,58 @@
+New technology
+	wat heb ik gedaan om het te leren
+	wat heb ik geleerd
+	tutorials bijhouden
+	'les kunnen geven'
+
+Proof of concept
+	iets bewijzen bewijzen : ik kan live iet uitvoeren
+	ik toon aan dat dat kan met meteor door dit uit te doen
+	iets aantonen
+
+	functie die automatisch foto's kan slicen
+	iets met design bewijzen
+	sentiment api een gevoels tweet sharen
+
+	KAN JE?
+	sms bij snelheid boven 30 per uur automatisch, ik ben aan het rijden
+
+	kan ik een auto scannen, en het merk achterhalen
+	image herkenning
+	met microvezels een code doorsturen naar gsm scherm door er een kaart op te leggen qr scan
+	socket io: swipe om effect op kerstboom aan te sturen
+
+	foto's maken van proces
+	
+	face pong
+	nfc
+	
+
+Vergelijking
+	means tack vs meteor
+
+
+
+METEOR
+	Templating
+//.js
+if (Meteor.isClient) {
+  Template.body.helpers({
+    resolutions:[
+      { title: "resolution #1"},
+      { title: "resolution #2"},
+      { title: "resolution #3"}
+    ]
+  });
+}
+// html
+<body>
+    <ul>
+        {{#each resolutions}}
+            {{> resolution}}
+        {{/each}}
+    </ul>
+</body>
+
+<template name="resolution">
+    <li>{{title}}</li>
+</template>
