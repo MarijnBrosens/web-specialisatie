@@ -2,8 +2,7 @@
 /* CSS declarations go here */
 body {
   font-family: sans-serif;
-  background-color: #315481;
-  background-image: linear-gradient(to bottom, #315481, #918e82 100%);
+  background-color: #F3F3F3;
   background-attachment: fixed;
 
   position: absolute;
@@ -26,14 +25,14 @@ body {
 }
 
 header {
-  background: #d2edf4;
-  background-image: linear-gradient(to bottom, #d0edf5, #e1e5f0 100%);
+  background: #E35050;
   padding: 20px 15px 15px 15px;
   position: relative;
 }
 
 #login-buttons {
   display: block;
+  color: white;
 }
 
 h1 {
@@ -42,6 +41,7 @@ h1 {
   margin-bottom: 10px;
   display: inline-block;
   margin-right: 1em;
+  color: white;
 }
 
 form {
@@ -105,6 +105,7 @@ li.private {
 
 header .hide-completed {
   float: right;
+  color: white;
 }
 
 .toggle-private {
@@ -124,4 +125,21 @@ header .hide-completed {
   .new-task input {
     padding-bottom: 5px;
   }
+}
+
+
+::-webkit-input-placeholder {
+   color: white;
+}
+
+:-moz-placeholder { /* Firefox 18- */
+   color: white;  
+}
+
+::-moz-placeholder {  /* Firefox 19+ */
+   color: white;  
+}
+
+:-ms-input-placeholder {  
+   color: white;  
 }
