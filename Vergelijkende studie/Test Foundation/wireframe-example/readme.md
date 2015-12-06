@@ -12,13 +12,13 @@
 ### Grid
 - Geen container nodig
 ```bash
-    row is genoeg
+    row bevat container styling
 ```
-- medium-collapse
+- medium-collapse - verwijder gutter tussen columns
 ```bash
     Zorgt er voor dat er geen gutter is op alle devices die groter dan medium viewport size hebben
 ```
-- large-centered
+- large-centered - center columns
 ```bash
     Center columns die large zijn
 ```
