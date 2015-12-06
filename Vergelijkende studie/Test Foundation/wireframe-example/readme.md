@@ -1,5 +1,8 @@
 # Ondervindingen
 
+## Filesize
+- full: 52kb
+
 ## Docs
 - De docs zijn niet zo overzichtelijk, niet goed ingedeeld, bijvoorbeeld list staat bij typography, ik heb daar verschillende keren lang naar moeten zoeken.
 - Ook als je in het zoekvak bovenaan iets zoekt krijg je enkel sass resultaten ( dit is nuttig als je met sass werkt, anders niet ).
