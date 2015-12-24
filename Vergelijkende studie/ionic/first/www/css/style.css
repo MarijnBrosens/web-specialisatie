@@ -1,0 +1,30 @@
+/* Empty. Add your own CSS if you like */
+.star > .item-content{ 
+	background-color: #f5f5f5;
+}
+
+.splash{
+	background-image: url('../img/splash.jpg');
+	background-repeat: no-repeat;
+	background-position: center center;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+.branding{
+	width: 50%;
+	margin: 0 auto;
+	text-align: center;
+	max-width: 200px;
+	margin-top: 20px;
+}
+
+.platform-android .bar-subheader{
+  top:93px !important;
+}
+
+.platform-android .has-subheader{
+  top:137px;
+}

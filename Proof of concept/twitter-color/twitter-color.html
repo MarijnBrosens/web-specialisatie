@@ -1,0 +1,17 @@
+<head>
+  <title>twitter-color</title>
+</head>
+
+<body>
+  <h1>Welcome to Meteor!</h1>
+
+  <ul>
+      {{#each tweets}}
+          {{> tweet }}
+      {{/each}}
+  </ul>
+</body>
+
+<template name="tweet">
+    <li>{{text}}</li>
+</template>
