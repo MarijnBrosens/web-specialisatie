@@ -30,10 +30,10 @@ if (Meteor.isServer) {
     // code to run on server at startup
 
     var Twit = new TwitMaker({
-      consumer_key:         'p1PuUGX0sarnKUXwZzI8A0UqS'
-      , consumer_secret:      'e3SuF3qLpotERovAdoont5YeE7XHPF7rJhe1mORflUc8qyFplV'
-      , access_token:         '1283917070-uASzktRinbsVe9xn4SyTZUrOySkg1ZaGbgVqCKt'
-      , access_token_secret:  'DpT1e0jJIJMqxLFZUgMrKrxiFwnPgo2thoddJO3PDAWC1'
+      consumer_key:         ''
+      , consumer_secret:      ''
+      , access_token:         ''
+      , access_token_secret:  ''
     });
 
     /*Twit.get('search/tweets', { q: 'jinglesmells since:2011-11-11', count: 2 }, function(err, data, response) {
