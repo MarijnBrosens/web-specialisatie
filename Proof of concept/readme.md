@@ -1,6 +1,6 @@
 ## Meteor + arduino Cuckoo-clock
 
-![Cuckoo-clock example](http://imgur.com/HZLbags)
+![Cuckoo-clock example](http://i.imgur.com/HZLbags.jpg)
 
 ### Test video's
 
