@@ -1,5 +1,7 @@
 ## Meteor + arduino Cuckoo-clock
 
+![Cuckoo-clock example](http://imgur.com/HZLbags)
+
 ### Test video's
 
 [Johnny five strobe](https://youtu.be/FYANhXymgpk)
