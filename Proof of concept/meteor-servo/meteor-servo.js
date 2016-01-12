@@ -58,10 +58,10 @@ if ( Meteor.isServer ) {
 			servoMotor.ccw();
 
 			var Twit = new TwitMaker({
-				consumer_key: 'p1PuUGX0sarnKUXwZzI8A0UqS'
-				, consumer_secret: 'e3SuF3qLpotERovAdoont5YeE7XHPF7rJhe1mORflUc8qyFplV'
-				, access_token: '1283917070-uASzktRinbsVe9xn4SyTZUrOySkg1ZaGbgVqCKt'
-				, access_token_secret: 'DpT1e0jJIJMqxLFZUgMrKrxiFwnPgo2thoddJO3PDAWC1'
+				consumer_key: 'KEY'
+				, consumer_secret: 'SECRET'
+				, access_token: 'ACCES TOKEN'
+				, access_token_secret: 'TOKEN SECRET'
 			});
 
 			var stream = Twit.stream('statuses/filter', {track: '#test'/*, language: 'en'*/});
