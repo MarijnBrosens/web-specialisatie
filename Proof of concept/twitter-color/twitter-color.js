@@ -43,7 +43,7 @@ if (Meteor.isServer) {
     //
     // filter the public stream by english tweets containing `#apple`
     //
-    var stream = Twit.stream('statuses/filter', { track: '#jinglesmells', language: 'en' })
+    var stream = Twit.stream('statuses/filter', { track: '#test', language: 'en' })
 
     /*stream.on('tweet', function (tweet) {
       console.log(tweet.text)

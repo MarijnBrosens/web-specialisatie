@@ -1,0 +1,35 @@
+<head>
+    <title>meteor-servo</title>
+</head>
+
+<body>
+    <div class="container">
+
+        <h1>#test</h1>
+
+        <div class="clear">Clear db</div>
+
+        {{#if tweets.count}}
+            <ul>
+                {{#each tweets}}
+                    {{> tweet }}
+                {{/each}}
+            </ul>
+
+        {{else}}
+
+            <h1>Nope, there are no tweets :/</h1>
+
+        {{/if}}
+
+    </div>
+</body>
+
+<template name="tweet">
+    <li>
+        <span>{{created_at}}</span>
+        <div class="text">
+            {{text}}
+        </div>
+    </li>
+</template>
