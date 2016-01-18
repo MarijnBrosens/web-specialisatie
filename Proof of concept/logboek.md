@@ -61,21 +61,3 @@
 ##### Week 4
 
 -  [Lego behuizing](https://www.youtube.com/watch?v=yp371KkjKEs) bouwen
-
-
-
-##### Week 5
-
-- Onsen ui getting started
-- ( ingewikkeld )
-
-##### Week 6
-
-##### Week 7
-
-- App in Onsen
-
-##### Week 8
-
-- App in Onsen
-- Bevindingen
