@@ -143,9 +143,9 @@ Ionic has very beautiful components.
 And they are easy to use. 
 Ionics components feel more focused towards IOS and they have a specific style which is beautiful but not always wanted.
 
-![Ionic](http://i.imgur.com/76qN2WF.png)
-![Ionic](http://i.imgur.com/DCPieSD.png)
-![Ionic](http://i.imgur.com/hitzNWP.png)
+![Ionic](http://i.imgur.com/76qN2WF.png =250x)
+![Ionic](http://i.imgur.com/DCPieSD.png =250x)
+![Ionic](http://i.imgur.com/hitzNWP.png =250x)
 
 
 
@@ -157,9 +157,9 @@ That makes it feel more native on android phones.
 But the components are less polished and still some important ones are missing: like hidden buttons. 
 Also they have sometimes little problems. (i tested beta version).
 
-![Onsen](http://i.imgur.com/s7gq0X6.png)
-![Onsen](http://i.imgur.com/dqdZqa0.png)
-![Onsen](http://i.imgur.com/nm5FRLd.png)
+![Onsen](http://i.imgur.com/s7gq0X6.png =250x)
+![Onsen](http://i.imgur.com/dqdZqa0.png =250x)
+![Onsen](http://i.imgur.com/nm5FRLd.png =250x)
 
 
 
