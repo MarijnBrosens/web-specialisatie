@@ -2,6 +2,17 @@
 
 ![Cuckoo-clock example](http://i.imgur.com/HZLbags.jpg)
 
+Ik wil bewijzen dat ik via een tweet hardware kan aansturen ( liefst met meteorjs )
+
+#### ideeen
+
+```
+- #green -> stuurt een ledstrip aan in het groen.
+- #cuckoo -> stuurt een koekoeksklok aan.
+```
+
+
+
 [final code](https://github.com/MarijnBrosens/web-specialisatie/tree/master/Proof%20of%20concept/meteor-servo)
 
 ### Test video's
