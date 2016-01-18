@@ -141,7 +141,7 @@ Onsen UI has more focus on Stackoverflow
 
 Ionic has very beautiful components.
 And they are easy to use. 
-Ionics components feel more focused towards IOS and they have a specific style which is beautiful.
+Ionics components feel more focused towards IOS and they have a specific style which is beautiful but not always wanted.
 
 #### Onsen UI
 
@@ -203,6 +203,15 @@ Which makes it more flexible.
 
 	It depends on your choice but Ionic wins this one for me.
 ```
+
+
+
+
+
+
+#### Grid System
+
+Both can do the same and are based on flexbox.
 
 
 
@@ -298,6 +307,14 @@ But when you compare a clean install with a quickstart you get:
 - 2k + stars
 - 300 + forks
 
+
+
+
+#### Conclusion
+
+If you want to have more speed, and native feeling, then i suggest you to use Onsen UI.
+If you want to have beautiful docs, and no problems, then i suggest you to use Ionic Framework.
+There is no true winner. It depends on your own needs.
 
 
 

@@ -54,4 +54,9 @@
 
 ##### Week 7
 
+- App in Onsen
+
 ##### Week 8
+
+- App in Onsen
+- Bevindingen
