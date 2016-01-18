@@ -2,6 +2,8 @@
 
 ![Cuckoo-clock example](http://i.imgur.com/HZLbags.jpg)
 
+[final code](https://github.com/MarijnBrosens/web-specialisatie/tree/master/Proof%20of%20concept/meteor-servo)
+
 ### Test video's
 
 [Johnny five strobe](https://youtu.be/FYANhXymgpk)
