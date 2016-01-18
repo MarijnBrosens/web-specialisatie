@@ -143,7 +143,7 @@ Ionic has very beautiful components.
 And they are easy to use. 
 Ionics components feel more focused towards IOS and they have a specific style which is beautiful but not always wanted.
 
-<img src="http://i.imgur.com/76qN2WF.png" alt="Ionic" style="max-width: 200px;"/>
+<img src="http://i.imgur.com/76qN2WF.png" alt="Ionic"  width="200px" height="200px" />
 <img src="http://i.imgur.com/DCPieSD.png" alt="Ionic" style="width: 200px;">
 <img src="http://i.imgur.com/hitzNWP.png" alt="Ionic" style="width: 200px;">
 
