@@ -143,11 +143,16 @@ Ionic has very beautiful components.
 And they are easy to use. 
 Ionics components feel more focused towards IOS and they have a specific style which is beautiful but not always wanted.
 
+
+
+
+
 #### Onsen UI
 
-Onson UI has more components and since their beta version also material design support.
+Onson UI has more components and since their beta 2 version also material design support.
 That makes it feel more native on android phones.
-But the components are less polished. And have sometimes little problems. (i tested beta version)
+But the components are less polished and still some important ones are missing: like hidden buttons. 
+Also they have sometimes little problems. (i tested beta version).
 
 ##### Conclusion (Components)
 
